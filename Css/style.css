@@ -50,7 +50,7 @@ video {
 .contact {
 	color: fuchsia;
 	display:table-cell;
-	font-size: 26px;
+	font-size: 15px;
 	text-align: center;	
 	height: 150px;
 }
@@ -69,4 +69,10 @@ video {
 	color:#43494D;
 	font-style: oblique;
 	background-color:#D3CECF; 
+}
+table {
+	box-sizing:inherit;
+	margin: 12px;
+	height: -34px;
+	align-items: center;
 }
